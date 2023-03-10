@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6107506-9181-4925-8d44-e40227d2ce52" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Knife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weapon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ainterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ainterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AinterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AinterfaceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,11 +73,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678064861633</updated>
-      <workItem from="1678064863613" duration="5241000" />
+      <workItem from="1678064863613" duration="8202000" />
     </task>
+    <task id="LOCAL-00001" summary="스트레티지패턴">
+      <created>1678371733648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678371733648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스트레티지패턴" />
+    <option name="LAST_COMMIT_MESSAGE" value="스트레티지패턴" />
   </component>
 </project>

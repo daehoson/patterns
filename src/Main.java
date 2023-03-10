@@ -6,11 +6,22 @@ public class Main {
     * */
 
     public static void main(String[] args) {
-        Ainterface ainterface = new AinterfaceImpl();
-        ainterface.funcA();
+//        Ainterface ainterface = new AinterfaceImpl();
+//        ainterface.funcA();
+//
+//        AObj aObj = new AObj();
+//        aObj.funcAA();
+//        System.out.println("Hello world!");
+        GameCharacter character = new GameCharacter();
+        character.attact();
 
-        AObj aObj = new AObj();
-        aObj.funcAA();
-        System.out.println("Hello world!");
+        character.setWeapon(new Knife());
+        character.attact();
+
+        character.setWeapon(new Sword());
+        character.attact();
+
+        character.setWeapon(new Axe());
+        character.attact();
     }
 }
